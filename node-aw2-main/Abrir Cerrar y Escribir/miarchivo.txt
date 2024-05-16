@@ -1,0 +1,11 @@
+Procesador
+[{"model":"Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz","speed":3292,"times":{"user":122656,"nice":0,"sys":98875,"idle":383281,"irq":8281}},{"model":"Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz","speed":3292,"times":{"user":128937,"nice":0,"sys":95812,"idle":379906,"irq":1187}},{"model":"Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz","speed":3292,"times":{"user":114609,"nice":0,"sys":83468,"idle":406578,"irq":1828}},{"model":"Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz","speed":3292,"times":{"user":139515,"nice":0,"sys":90687,"idle":374437,"irq":2671}}]
+
+Memoria Libre
+3.2057952880859375
+
+Memoria Total
+7.874015808105469
+
+Memoria Usada
+4.668220520019531
